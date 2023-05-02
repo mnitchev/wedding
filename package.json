@@ -1,7 +1,7 @@
 {
-  "name": "togethermoore.nl",
+  "name": "mnitchev.github.io/wedding/",
   "version": "0.0.1",
-  "description": "Codebase for https://togethermoore.nl",
+  "description": "Codebase for https://mnitchev.github.io/wedding/",
   "main": "_site/index.html",
   "scripts": {
     "test": "htmlproofer ./_site --only-4xx && bundle exec jekyll build && scss-lint ./_sass/**/*.scss && eslint _js-es6",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/tumbleshack/tumbleshack/wedding"
   },
-  "homepage": "https://togethermoore.nl",
+  "homepage": "https://mnitchev.github.io/wedding/",
   "dependencies": {
     "@actions/cache": "^3.0.4",
     "@babel/cli": "^7.18.10",
