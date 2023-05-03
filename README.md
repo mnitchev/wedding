@@ -1,4 +1,4 @@
-# McKay and Lily's Wedding
+# Desi and Mario's Wedding
 
 ## Toolchain
 
