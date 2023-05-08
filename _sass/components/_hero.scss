@@ -39,34 +39,6 @@
     background-image: url('../images/us/hero-al.jpg');
   }
 
-  &--review {
-    background-image: url('../images/b&g/Gillian_Barry335_chfc4u_c_scale,w_712.jpg');
-
-    @media (min-width: 1200px) {
-      background-image: url('../images/b&g/Gillian_Barry335_chfc4u_c_scale,w_1400.jpg');
-    }
-  }
-
-  &--guide {
-    background-image: url('../images/delft/hero.jpg');
-  }
-
-  &--poem {
-    background-image: url('../images/b&g/Gillian_Barry355_lpvpfw_c_scale,w_498.jpg');
-
-    @media (min-width: 468px) {
-      background-image: url('../images/b&g/Gillian_Barry355_lpvpfw_c_scale,w_717.jpg');
-    }
-
-    @media (min-width: 960px) {
-      background-image: url('../images/b&g/Gillian_Barry355_lpvpfw_c_scale,w_913.jpg');
-    }
-
-    @media (min-width: 1200px) {
-      background-image: url('../images/b&g/Gillian_Barry355_lpvpfw_c_scale,w_1400.jpg');
-    }
-  }
-
   .link-leader {
 
     a:hover {
