@@ -1,6 +1,7 @@
 .img-banner {
   // min-height: 175px;
-  height: 40vw;
+  height: auto;
+  max-width: 100%;
   background-color: $light-color;
   background-position: center;
   background-size: cover;
