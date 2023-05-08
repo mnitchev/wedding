@@ -2288,24 +2288,6 @@ body {
   @media (min-width: 960px) {
     .hero-wrap {
       background-image: url("../images/us/hero-al.jpg"); } }
-  .hero-wrap--review {
-    background-image: url("../images/b&g/Gillian_Barry335_chfc4u_c_scale,w_712.jpg"); }
-    @media (min-width: 1200px) {
-      .hero-wrap--review {
-        background-image: url("../images/b&g/Gillian_Barry335_chfc4u_c_scale,w_1400.jpg"); } }
-  .hero-wrap--guide {
-    background-image: url("../images/delft/hero.jpg"); }
-  .hero-wrap--poem {
-    background-image: url("../images/b&g/Gillian_Barry355_lpvpfw_c_scale,w_498.jpg"); }
-    @media (min-width: 468px) {
-      .hero-wrap--poem {
-        background-image: url("../images/b&g/Gillian_Barry355_lpvpfw_c_scale,w_717.jpg"); } }
-    @media (min-width: 960px) {
-      .hero-wrap--poem {
-        background-image: url("../images/b&g/Gillian_Barry355_lpvpfw_c_scale,w_913.jpg"); } }
-    @media (min-width: 1200px) {
-      .hero-wrap--poem {
-        background-image: url("../images/b&g/Gillian_Barry355_lpvpfw_c_scale,w_1400.jpg"); } }
   .hero-wrap .link-leader a:hover {
     color: #f8f8ff; }
 
